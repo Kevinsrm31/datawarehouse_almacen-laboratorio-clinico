@@ -43,4 +43,4 @@ MySQL / MariaDB · SQL (DDL + ETL, con CTE recursiva para el calendario) · Mode
 
 ## Autor:
 Kevin Reyes Morocho
-www.linkedin.com/in/kevin-steven-reyes-morocho
+www.linkedin.com/in/kevin-steven-reyes-morocho-
